@@ -39,7 +39,7 @@ export const spots = [
     video: 'https://v.douyin.com/9KCW8Rtp-18/'
   },
   {
-    id: 4,
+    id: 5,
     name: '李子坝站',
     position: [106.537867, 29.552997],
     tags: ['打卡点'],
@@ -47,7 +47,7 @@ export const spots = [
     video: 'https://v.douyin.com/ayJMIq61oJY/'
   },
   {
-    id: 4,
+    id: 6,
     name: '来福士拍照地',
     position: [106.594786, 29.565846],
     tags: ['拍照地点'],
