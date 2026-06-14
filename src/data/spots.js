@@ -34,8 +34,24 @@ export const spots = [
     id: 4,
     name: '大剧院地铁口',
     position: [106.57673, 29.568916],
-    tags: ["拍照地点"],
+    tags: ['拍照地点'],
     description: '超级牛逼的地铁口，每一个出口都是打卡点',
     video: 'https://v.douyin.com/9KCW8Rtp-18/'
+  },
+  {
+    id: 4,
+    name: '李子坝站',
+    position: [106.537867, 29.552997],
+    tags: ['打卡点'],
+    description: '轻轨打卡点',
+    video: 'https://v.douyin.com/ayJMIq61oJY/'
+  },
+  {
+    id: 4,
+    name: '来福士拍照地',
+    position: [106.594786, 29.565846],
+    tags: ['拍照地点'],
+    description: '拍来福士 晚上才好看',
+    video: 'https://v.douyin.com/jAS1Mva2qWs/'
   }
 ]
