@@ -53,5 +53,40 @@ export const spots = [
     tags: ['拍照地点'],
     description: '拍来福士 晚上才好看',
     video: 'https://v.douyin.com/jAS1Mva2qWs/'
+  },
+  {
+    id: 7,
+    name: '下浩里',
+    position: [106.595746, 29.557588],
+    tags: ['打卡地点'],
+    description: '网红打卡点',
+    video: 'https://v.douyin.com/cwxUV9-TXZ8/'
+  },
+  {
+    id: 8,
+    name: '白象居',
+    position: [106.585193, 29.556103],
+    tags: ['打卡地点'],
+    description: '坐地铁从小什字站7号口出 然后定位到长航·美仑酒店 旁边就是白象居大门',
+    video: 'https://v.douyin.com/Xveyh9wvkbo/'
+  },
+  {
+    id: 9,
+    name: '涂鸦一条街',
+    position: [106.539867, 29.488979],
+    tags: ['打卡地点'],
+    description: '有各种各样的涂鸦 还有TFBOYS',
+    tips: [
+      '视频有到达教程'
+    ],
+    video: 'https://v.douyin.com/9u5YItmG3u8/'
+  },
+  {
+    id: 10,
+    name: '光环购物公园',
+    position: [106.529275, 29.650527],
+    tags:['打卡地点','购物','商场'],
+    description: '很火的商场',
+    video: 'https://v.douyin.com/iV2XUk6oUaY/'
   }
 ]
