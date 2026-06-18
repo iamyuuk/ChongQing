@@ -88,5 +88,28 @@ export const spots = [
     tags:['打卡地点','购物','商场'],
     description: '很火的商场',
     video: 'https://v.douyin.com/iV2XUk6oUaY/'
+  },
+  {
+    id: 11,
+    name: '首创奥特莱斯',
+    position: [106.622833, 29.460197],
+    tags:['购物','商场'],
+    description: '低价买名牌',
+    video: 'https://v.douyin.com/nSQZ4rzkHpU/'
+  },
+  {
+    id: 12,
+    name: '星光68广场',
+    position: [106.530868, 29.578933],
+    tags:['购物','商场'],
+    description: '有3米高的柱形海洋馆',
+    video: 'https://v.douyin.com/E81YN3yt05w/'
+  },
+  {
+    id: 13,
+    name: '来福士',
+    position: [106.587247, 29.564813],
+    tags:['购物','商场'],
+    video: 'https://v.douyin.com/ldejY9ML4RQ/'
   }
 ]
